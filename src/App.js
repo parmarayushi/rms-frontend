@@ -1,4 +1,4 @@
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Layout from "./components/Layout";
 import ProtectedRoute from "./components/ProtectedRoute";
 import AdminDashboard from "./features/admin/AdminDashboard";
@@ -12,7 +12,7 @@ import HomeRedirect from "./HomeRedirect";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Layout>
         <Routes>
           {/* Public route */}
@@ -58,7 +58,7 @@ const App = () => {
           </Route>
         </Routes>
       </Layout>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
