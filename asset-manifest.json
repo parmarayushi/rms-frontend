@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rms-frontend/static/css/main.47f81b61.css",
+    "main.js": "/rms-frontend/static/js/main.03021a3f.js",
+    "static/js/453.52176421.chunk.js": "/rms-frontend/static/js/453.52176421.chunk.js",
+    "index.html": "/rms-frontend/index.html",
+    "main.47f81b61.css.map": "/rms-frontend/static/css/main.47f81b61.css.map",
+    "main.03021a3f.js.map": "/rms-frontend/static/js/main.03021a3f.js.map",
+    "453.52176421.chunk.js.map": "/rms-frontend/static/js/453.52176421.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47f81b61.css",
+    "static/js/main.03021a3f.js"
+  ]
+}
